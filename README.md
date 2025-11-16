@@ -1,16 +1,9 @@
-<!--
-[myeongcode]님의 프로필을 기반으로 [전유나]님의 데이터 사이언티스트 포트폴리오에 맞게 재구성한 README.md 템플릿입니다.
-이력서(서울대병원 정보화_kelly013.pdf)를 기반으로 모든 내용이 1차로 채워져 있습니다.
-HTML 주석(<!-- ... -->)으로 표시된 [수정] 부분만 본인의 GitHub 정보로 최종 확인해주세요.
-
--->
-
 <!-- 1. 메인 헤더: Vercel Capsule Render 사용 -->
 
 <div align="center">
 <!--
 [이력서 '간략 소개' 기반]
-"의료데이터를 분석하고 기술로 구현하여... 디지털 헬스케어 솔루션을 만들고 싶습니다." [cite: 14, 18]
+"의료데이터를 분석하고 기술로 구현하여... 디지털 헬스케어 솔루션을 만들고 싶습니다."
 -->
 <img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dsoft%26color%3Dauto%26height%3D300%26text%3D%EC%9D%98%EB%A3%8C%2520%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A1%9C%2520%EA%B0%80%EC%B9%98%EB%A5%BC%2520%EB%A7%8C%EB%93%9C%EB%8A%94%26desc%3D%EB%8D%B0%EC%9D%B4%ED%84%B0%2520%EC%82%AC%EC%9D%B4%EC%96%B8%ED%8B%B0%EC%8A%A4%ED%8A%B8%2520%EC%A0%84%EC%9C%A0%EB%82%98%EC%9E%85%EB%8B%88%EB%8B%A4%26animation%3DfadeIn%26fontSize%3D45%26descSize%3D25" />
 </div>
@@ -29,7 +22,7 @@ HTML 주석(<!-- ... -->)으로 표시된 [수정] 부분만 본인의 GitHub �
 <h3><img src="https://www.google.com/search?q=https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%2520Face.png" alt="Nerd Face" width="25" height="25" /> '분석'을 좋아합니다.</h3>
 <div>
 <p>데이터 속에 숨겨진 패턴과 인사이트를 찾는 과정을 즐깁니다.</p>
-<p><strong>'왜?'라는 질문을 통해 문제의 본질을 파악</strong>하고, 데이터로 답을 찾는 것을 목표로 합니다. (이력서 '뇌졸중', 'COVID-19' 프로젝트 [cite: 70-79] 참조)</p>
+<p><strong>'왜?'라는 질문을 통해 문제의 본질을 파악</strong>하고, 데이터로 답을 찾는 것을 목표로 합니다.</p>
 </div>
 </div>
 
@@ -41,7 +34,7 @@ HTML 주석(<!-- ... -->)으로 표시된 [수정] 부분만 본인의 GitHub �
 <h3><img src="https://www.google.com/search?q=https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Ambulance.png" alt="Ambulance" width="25" height="25" /> '현장'을 중요시합니다.</h3>
 <div>
 <p>기술이 실제 의료 현장의 문제를 해결할 때 가장 가치있다고 믿습니다.</p>
-<p>'디지털헬스케어' [cite: 2] 전공 지식을 바탕으로, 병원과 환자 모두에게 도움이 되는 기술을 고민합니다. (이력서 '지원동기' [cite: 56-66] 참조)</p>
+<p>'디지털헬스케어' 전공 지식을 바탕으로, 병원과 환자 모두에게 도움이 되는 기술을 고민합니다.</p>
 </div>
 </div>
 
@@ -53,14 +46,14 @@ HTML 주석(<!-- ... -->)으로 표시된 [수정] 부분만 본인의 GitHub �
 <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" alt="Open Book" width="25" height="25" /> '성장'을 추구합니다.</h3>
 <div>
 <p>새로운 AI 모델과 데이터 분석 기법을 꾸준히 학습합니다.</p>
-<p>신뢰할 수 있는 분석 결과를 더하는 개발자로 성장하고 싶습니다. (이력서 '입사 후 포부' [cite: 111-118] 참조)</p>
+<p>신뢰할 수 있는 분석 결과를 더하는 개발자로 성장하고 싶습니다.</p>
 </div>
 </div>
 </div>
 </br>
 </br>
 
-<!-- 3. TECH STACK: 이력서 '나의 스킬' [cite: 29] 섹션 기반 -->
+<!-- 3. TECH STACK: 이력서 '나의 스킬' 섹션 기반 -->
 
 <h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" /> TECH STACK</h2>
 
@@ -167,7 +160,7 @@ Power BI
 </br>
 </br>
 
-<!-- 4. MAIN PROJECT: 이력서 '프로젝트 경험' [cite: 70-100] 섹션 기반 -->
+<!-- 4. MAIN PROJECT: 이력서 '프로젝트 경험' 섹션 기반 -->
 
 <h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> MAIN PROJECT</h4>
 <p align="center" style="margin:0px;">제가 참여했던 주요 프로젝트 입니다.</p>
@@ -179,7 +172,7 @@ Power BI
 <!--
 [매우 중요! - 수정 필요]
 아래 8곳의 [YOUR-GITHUB-USERNAME]과 [REPO-NAME]을 본인의 GitHub ID와 실제 리포지토리 이름으로 변경해야만 카드가 정상적으로 보입니다.
-(예: username=yuna-jeon, repo=Stroke-Project)
+(예: username=yunajeon, repo=Stroke-Project)
 -->
 
 <table align="center">
@@ -189,14 +182,14 @@ Power BI
 <img width="400" alt="뇌졸중 위험도 예측" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3D[YOUR-GITHUB-USERNAME]&repo=[STROKE-REPO-NAME]&theme=dark&show_owner=true" />
 </a>
 <h4>건강검진 데이터 뇌졸중 위험도 예측</h4>
-<p>로지스틱 회귀, Power BI 시각화 [cite: 70-74]</p>
+<p>로지스틱 회귀, Power BI 시각화</p>
 </td>
 <td align="center">
 <a href="https://github.com/[YOUR-GITHUB-USERNAME]/[COVID-REPO-NAME]">
 <img width="400" alt="COVID-19 음성 진단" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3D[YOUR-GITHUB-USERNAME]&repo=[COVID-REPO-NAME]&theme=dark&show_owner=true" />
 </a>
 <h4>COVID-19 음성 진단 모델</h4>
-<p>MFCC 피처 추출, SVM 모델 튜닝 [cite: 75-79]</p>
+<p>MFCC 피처 추출, SVM 모델 튜닝</p>
 </td>
 </tr>
 <tr>
@@ -205,19 +198,19 @@ Power BI
 <img width="400" alt="도로 낙상 감지 시스템" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3D[YOUR-GITHUB-USERNAME]&repo=[FALL-REPO-NAME]&theme=dark&show_owner=true" />
 </a>
 <h4>도로 낙상 감지 시스템</h4>
-<p>PyTorch, YOLOv5, OpenVINO [cite: 87-93]</p>
+<p>PyTorch, YOLOv5, OpenVINO</p>
 </td>
 <td align="center">
 <a href="https://github.com/[YOUR-GITHUB-USERNAME]/[SMARTWATCH-REPO-NAME]">
 <img width="400" alt="스마트워치 병원서비스 앱" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3D[YOUR-GITHUB-USERNAME]&repo=[SMARTWATCH-REPO-NAME]&theme=dark&show_owner=true" />
 </a>
 <h4>스마트워치 기반 병원서비스 앱</h4>
-<p>Kotlin, Wear OS, WebSocket [cite: 80-86]</p>
+<p>Kotlin, Wear OS, WebSocket</p>
 </td>
 </tr>
 </table>
 
-<!-- 5. AWARDS: 이력서 '자격/어학/수상' [cite: 46-52] 섹션 기반 -->
+<!-- 5. AWARDS: 이력서 '자격/어학/수상' 섹션 기반 -->
 
 <h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="25" height="25" /> AWARDS & ACTIVITIES</h4>
 
@@ -227,14 +220,14 @@ Power BI
 
 
 
-주제: AWS 기반 AI 모의면접 서비스 구현 (KNOK) [cite: 51, 94-100]
+주제: AWS 기반 AI 모의면접 서비스 구현 (KNOK)
 
 역할: 풀스택 개발, 클라우드 아키텍처 설계, LLM 연동, X-Ray 트랜잭션 추적
 </details>
 <details align="left">
 <summary>[최우수상] 산학공동프로젝트 연구개발 (2023.12)</summary>
 
-<!-- 6. EDUCATION: 이력서 '학력', '경험', '경력' [cite: 30-45] 섹션 기반 -->
+<!-- 6. EDUCATION: 이력서 '학력', '경험', '경력' 섹션 기반 -->
 
 <h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" alt="Open Book" width="25" height="25" /> EDUCATION & EXPERIENCE</h4>
 
@@ -242,17 +235,17 @@ Power BI
 
 
 
-디지털헬스케어학부 (주전공) [cite: 31]
+디지털헬스케어학부 (주전공)
 
-소프트웨어학부 (복수전공) [cite: 32]
+소프트웨어학부 (복수전공)
 
-학점: 3.94 / 4.5 [cite: 32]
+학점: 3.94 / 4.5
 
 <h3><img src="https://www.google.com/search?q=https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Cloud.png" alt="Cloud" width="25" height="25" /> AWS Korea, 한국전파진흥협회 (2024.12 - 2025.07)</h3>
 
 
 
-AWS기반 클라우드 인프라 구축 교육 이수 (AWS Cloud School 8기) [cite: 41-45]
+AWS기반 클라우드 인프라 구축 교육 이수 (AWS Cloud School 8기)
 
 네트워크, 리눅스, 서버 가상화, DevOps 실무 학습
 
@@ -260,7 +253,7 @@ AWS기반 클라우드 인프라 구축 교육 이수 (AWS Cloud School 8기) [c
 
 
 
-인공지능, 딥러닝, Causal AI, 의료 AI, NLP 현지 연수 [cite: 37-40]
+인공지능, 딥러닝, Causal AI, 의료 AI, NLP 현지 연수
 
 Python 기반 데이터 분석 및 Jupyter 교육 이수
 
@@ -268,6 +261,6 @@ Python 기반 데이터 분석 및 Jupyter 교육 이수
 
 
 
-IT팀 인턴 [cite: 33-36]
+IT팀 인턴
 
 고객 불만 접수 사이트 기획 및 DB 설계 담당
