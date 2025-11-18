@@ -8,7 +8,7 @@
 
 <h2 align="center">ABOUT ME</h4>
 <div align="center">
-<p align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand" width="25" height="25" /> 안녕하세요! 저는 의료데이터로 가치를 만들어 나가고 싶은 전유나입니다.</p>
+<p align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand" width="25" height="25" /> 안녕하세요! 저는 이런 사람입니다.</p>
 
 
 <br>
