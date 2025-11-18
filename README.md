@@ -235,7 +235,7 @@ Power BI
 > 디지털헬스케어학부 (주전공)
 > 
 > 소프트웨어학부 (복수전공)
-> 
+>
 > 학점: 3.94 / 4.5
 
 > <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Airplane.png" alt="Airplane" width="25" height="25" /> 프랑스 그르노블 AI 썸머스쿨 (2023.06 - 2023.07)</h3> <br/>
@@ -245,8 +245,7 @@ Power BI
 
 > <h3><img src="https://skillicons.dev/icons?i=aws" alt="Cloud" width="25" height="25" /> AWS Cloud School 8기 (2024.12 - 2025.07)</h3><br/>
 >
-> 최종 프로젝트 최우수상 수상 (AI 모의면접, KNOK)
->
+> 최종 프로젝트 최우수상 수상 (AI 모의면접, KNOK)<br/>
 > 네트워크, 리눅스, 서버 가상화, DevOps 실무 학습
 
 
