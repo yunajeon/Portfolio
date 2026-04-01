@@ -1,7 +1,7 @@
 <!-- 1. 메인 헤더: Vercel Capsule Render 사용 -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=500&text=의료데이터로%20가치를%20만들어%20나가는&desc=전유나입니다&animation=fadeIn&fontSize=50&descSize=30" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=500&text=데이터로%20가치를%20만들어%20나가는&desc=전유나입니다&animation=fadeIn&fontSize=50&descSize=30" />
 </div>
 
 <!-- 2. ABOUT ME: 이력서의 전공 및 자기소개서 기반 -->
